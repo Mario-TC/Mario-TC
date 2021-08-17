@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mario-TC
+- 🤓 I'm studying actuary or actuarial science
+- 👀 I’m interested in programming and learning new things
+- 🌱 I’m currently learning Python, R, SQL and Typescript
+- 📫 How to reach me tejedachavezmario@gmail.com
